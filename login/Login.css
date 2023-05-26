@@ -1,0 +1,25 @@
+.form{
+    margin: 20px auto;
+ width: 220px;
+text-align: center;
+padding: 222px;
+border: 5px solid palevioletred;
+border-radius: 20px;
+background-image: url('../img/grunge-pale-violet-red-color-texture_469558-39704.avif');
+
+}
+#submit{
+    background-color: rgb(244, 209, 220);
+    border-color: rgb(222, 129, 160);
+    border-radius: 7px;
+    padding: 5px 10px;
+     cursor: pointer;
+}
+#email,#password{
+    width: 220px;
+   height: 22px;
+   border-radius: 5px;
+}
+#submit{
+    width: 100px;
+}
